@@ -1,10 +1,17 @@
+🎓 MyCAS College — CAS Malampuzha
+A modern, responsive college website built with React 19 and Vite, showcasing CAS Malampuzha — a premier institution in Palakkad, Kerala.
 
+✨ Features
 
-📘 README – MyCAS College Project
-This project, available at MyCAS College Repository, is a college-based application developed to demonstrate practical implementation of academic concepts using modern web technologies.
+Hero Section — Full-screen banner with animated entrance, tagline, and call-to-action buttons
+Interactive Modals — "Explore Courses" and "Learn More" dialogs with smooth transitions
+Stats Bar — Highlights key numbers (5000+ students, 200+ faculty, 50+ courses, 95% placement)
+Features Grid — Animated cards showcasing why students should choose CAS Malampuzha
+Campus Section — Photo and highlights of the 25-acre campus
+Courses Page — Dedicated page listing undergraduate and postgraduate programs
+About Page — College overview and history
+Contact Page — Reach out to the institution
+Animated Progress Bars — Faculty qualifications, placement rate, and research stats
+React Router — Multi-page navigation with a persistent Navbar and Footer
 
-The repository contains the source code and resources required to build and run the application. It is designed to provide a simple and efficient system that can be used for managing or showcasing college-related information such as student data, courses, or institutional activities.
-
-This project is created as part of academic learning, helping to improve skills in development, version control using GitHub, and collaborative coding. 
-
-Contributions, suggestions, and improvements are always welcome. Feel free to fork the repository and enhance its features.
+demo link: https://mycascollege.netlify.app/
